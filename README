@@ -7,3 +7,7 @@ This is a first-pass Rscript form of the following R code:
 More information about the code can be found in the following blog post:
 
    http://blog.revolution-computing.com/2009/11/charting-time-series-as-calendar-heat-maps-in-r.html
+
+# Adaptation
+
+This calendar was adapted to show information on Russian language and week starts from Monday
